@@ -1,1 +1,30 @@
 He didn't know why they were there... but they were.
+
+git init - create repository
+rm -rf .git = delete the repo
+
+GIT FILE STATUS
+untracked
+unstaged
+staged
+committed
+
+git status
+git add name
+git commit -m „msg”
+git log
+
+git add . = add everything
+git add -A
+
+gitk / gitx = GUI
+
+NEW REPO
+create new repo on Gothub website
+copy ssh/http
+terminal -> git clone paste SSH
+
+
+git pull origin master -> download changes from github
+
+

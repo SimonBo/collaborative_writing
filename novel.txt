@@ -27,4 +27,6 @@ terminal -> git clone paste SSH
 
 git pull origin master -> download changes from github
 
+And they lived happily ever after
+
 
